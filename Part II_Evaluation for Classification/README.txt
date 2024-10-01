@@ -1,7 +1,1 @@
-Chapter 4 took a practical viewof evaluation and, in the case of evaluation metrics, explained
-their purpose in a functional way. In this chapter, we take a step back to reflect upon the issue
-of choosing evaluation measures in a broader and more theoretical context.1 Nonetheless,
-the chapter does not focus on theory alone. Practical questions related to evaluation measures
-are also discussed and, their uses are illustrated on intuitive examples. This chapter
-focuses on metrics for classification. Metrics for other learning paradigms will be discussed
-at length in Chapters 8 and 9.
+Chapter 4 took a practical viewof evaluation and, in the case of evaluation metrics, explained their purpose in a functional way. In this chapter, we take a step back to reflect upon the issue of choosing evaluation measures in a broader and more theoretical context.1 Nonetheless, the chapter does not focus on theory alone. Practical questions related to evaluation measures are also discussed and, their uses are illustrated on intuitive examples. This chapter focuses on metrics for classification. Metrics for other learning paradigms will be discussed at length in Chapters 8 and 9.
