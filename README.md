@@ -18,17 +18,24 @@ The book examines meaningful metrics for diverse types of learning paradigms and
 4. Traditional Machine Learning Evaluation
 
 **Part II Evaluation for Classification**
+
 5. Metrics
+
 6. Resampling
+
 7. Statistical Analysis
 
 **Part III Evaluation for Other Settings**
+
 8. Supervised Settings Other Than Simple Classification
+
 9. Unsupervised Learning
 
 **Part IV Evaluation from a Practical Perspective**
 10. Industrial-Strength Evaluation
+
 11. Responsible Machine Learning
+
 12. Conclusion
 
 For more info about the book, please visit (https://www.cambridge.org/9781316518861)
