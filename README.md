@@ -36,6 +36,7 @@ The book examines meaningful metrics for diverse types of learning paradigms and
 9. Unsupervised Learning
 
 **Part IV Evaluation from a Practical Perspective**
+
 10. Industrial-Strength Evaluation
 
 11. Responsible Machine Learning
