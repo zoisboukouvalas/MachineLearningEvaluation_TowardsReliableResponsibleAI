@@ -1,4 +1,1 @@
-In this chapter, we ask whether the results observed using the performance metrics of
-Chapter 5 and the resampling methods of Chapter 6 are meaningful. In other words, do
-the differences observed between the compared algorithms reflect a true difference in
-performance, or are they obtained by mere chance?
+In this chapter, we ask whether the results observed using the performance metrics of Chapter 5 and the resampling methods of Chapter 6 are meaningful. In other words, do the differences observed between the compared algorithms reflect a true difference in performance, or are they obtained by mere chance?
