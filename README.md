@@ -12,9 +12,13 @@ The book examines meaningful metrics for diverse types of learning paradigms and
 
 ### Table of Contents
 **Part I Preliminary Considerations**
+
 1. Introduction
+
 2. Statistics Overview
+
 3. Machine Learning Preliminaries
+
 4. Traditional Machine Learning Evaluation
 
 **Part II Evaluation for Classification**
