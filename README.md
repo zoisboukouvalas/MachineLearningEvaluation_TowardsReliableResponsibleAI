@@ -10,8 +10,6 @@ The book examines meaningful metrics for diverse types of learning paradigms and
 
 **Zois Boukouvalas** is an Assistant Professor in the Department of Mathematics and Statistics at American University, Washington, DC. His research focuses on the development of interpretable multimodal machine learning algorithms, and he has been the lead principal investigator of several research grants. Through his research and teaching activities, he is creating environments that encourage and support the success of underrepresented students for entry into machine learning careers.
 
-For more info about the book, please visit (https://www.cambridge.org/9781316518861)
-
 ### Acknowledgments
 **Liam Spoletini** and **Sunday Okechukwu** deserve a huge thank you for their invaluable effort in creating the GitHub site that accompanies this book. Their contributions have greatly enhanced the book's usefulness.
 
