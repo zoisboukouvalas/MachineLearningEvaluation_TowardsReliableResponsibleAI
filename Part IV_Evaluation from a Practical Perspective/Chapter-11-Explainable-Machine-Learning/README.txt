@@ -1,0 +1,8 @@
+Along with the robustness issues discussed in Chapter 10 comes the question of responsibility.
+Responsible machine learning is an approach to developing and deploying machine
+learning models that prioritize ethical considerations, fairness, transparency, and accountability.
+It is a subset of responsible artificial intelligence (AI) (Brundage et al. 2020; Kaur
+et al. 2022; Li et al. 2023) that focuses specifically on the development and deployment of
+responsible AI systems. While Chapter 10 raised some of the questions asked in this chapter,
+it did not provide complete answers to them. The purpose of this current chapter is to review
+the work that has been done toward answering these questions.
