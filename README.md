@@ -10,6 +10,20 @@ The book examines meaningful metrics for diverse types of learning paradigms and
 
 **Zois Boukouvalas** is an Assistant Professor in the Department of Mathematics and Statistics at American University, Washington, DC. His research focuses on the development of interpretable multimodal machine learning algorithms, and he has been the lead principal investigator of several research grants. Through his research and teaching activities, he is creating environments that encourage and support the success of underrepresented students for entry into machine learning careers.
 
+### Table of Contents
+1. Introduction
+2. Statistics Overview
+3. Machine Learning Preliminaries
+4. Traditional Machine Learning Evaluation
+5. Metrics
+6. Resampling
+7. Statistical Analysis
+8. Supervised Settings Other Than Simple Classification
+9. Unsupervised Learning
+10. Industrial-Strength Evaluation
+11. Responsible Machine Learning
+12. Conclusion
+
 For more info about the book, please visit (https://www.cambridge.org/9781316518861)
 
 ### Acknowledgments
