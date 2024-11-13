@@ -49,4 +49,7 @@ For more info about the book, please visit (https://www.cambridge.org/9781316518
 **Liam Spoletini** and **Sunday Okechukwu** deserve a huge thank you for their invaluable effort in creating the GitHub site that accompanies this book. Their contributions have greatly enhanced the book's usefulness.
 
 
+### **Tutorial Presentation at IEEE Big Data 2024**
+In addition to the book, the insights from this work will be presented at the IEEE Big Data 2024 conference. The tutorial aims to provide an in-depth exploration of the challenges and best practices for evaluating machine learning models, focusing on industrial-strength evaluation, fairness, and responsible AI. Attendees will gain a practical understanding of how to apply these concepts to real-world machine learning systems, ensuring reliable and ethical AI development.
 
+### [Link to Slides](https://example-link.com)
