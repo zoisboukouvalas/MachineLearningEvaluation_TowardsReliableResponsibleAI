@@ -10,6 +10,12 @@ The book examines meaningful metrics for diverse types of learning paradigms and
 
 **Zois Boukouvalas** is an Assistant Professor in the Department of Mathematics and Statistics at American University, Washington, DC. His research focuses on the development of interpretable multimodal machine learning algorithms, and he has been the lead principal investigator of several research grants. Through his research and teaching activities, he is creating environments that encourage and support the success of underrepresented students for entry into machine learning careers.
 
+### **Tutorial Presentation at IEEE Big Data 2024**
+In addition to the book, the insights from this work will be presented at the IEEE Big Data 2024 conference. The tutorial aims to provide an in-depth exploration of the challenges and best practices for evaluating machine learning models, focusing on industrial-strength evaluation, fairness, and responsible AI. Attendees will gain a practical understanding of how to apply these concepts to real-world machine learning systems, ensuring reliable and ethical AI development.
+
+### [Link to Slides](https://github.com/zoisboukouvalas/MachineLearningEvaluation_TowardsReliableResponsibleAI/raw/refs/heads/main/Machine_Learning_Evaluation_Slides_BigData_2024.pptx)
+
+
 ### Table of Contents
 **Part I Preliminary Considerations**
 
@@ -49,7 +55,3 @@ For more info about the book, please visit (https://www.cambridge.org/9781316518
 **Liam Spoletini** and **Sunday Okechukwu** deserve a huge thank you for their invaluable effort in creating the GitHub site that accompanies this book. Their contributions have greatly enhanced the book's usefulness.
 
 
-### **Tutorial Presentation at IEEE Big Data 2024**
-In addition to the book, the insights from this work will be presented at the IEEE Big Data 2024 conference. The tutorial aims to provide an in-depth exploration of the challenges and best practices for evaluating machine learning models, focusing on industrial-strength evaluation, fairness, and responsible AI. Attendees will gain a practical understanding of how to apply these concepts to real-world machine learning systems, ensuring reliable and ethical AI development.
-
-### [Link to Slides](https://example-link.com)
