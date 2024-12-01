@@ -13,7 +13,7 @@ The book examines meaningful metrics for diverse types of learning paradigms and
 ### **Tutorial Presentation at IEEE Big Data 2024**
 In addition to the book, the insights from this work will be presented at the IEEE Big Data 2024 conference. The tutorial aims to provide an in-depth exploration of the challenges and best practices for evaluating machine learning models, focusing on industrial-strength evaluation, fairness, and responsible AI. Attendees will gain a practical understanding of how to apply these concepts to real-world machine learning systems, ensuring reliable and ethical AI development.
 
-### [Link to Slides](https://github.com/zoisboukouvalas/MachineLearningEvaluation_TowardsReliableResponsibleAI/raw/refs/heads/main/Machine_Learning_Evaluation_Slides_BigData_2024.pptx)
+### [Link to Slides](https://github.com/zoisboukouvalas/MachineLearningEvaluation_TowardsReliableResponsibleAI/raw/refs/heads/main/Slides-for-BigDATA-Presentation-Machine_Learning_Evaluation_Final_Slides.pdf)
 
 
 ### Table of Contents
